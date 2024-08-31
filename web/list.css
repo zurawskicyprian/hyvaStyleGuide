@@ -1,0 +1,15 @@
+ul {
+    @apply list-disc ml-4;
+
+    li {
+        @apply pl-2;
+    }
+}
+
+ol {
+    @apply list-decimal ml-4;
+
+    li {
+        @apply pl-2;
+    }
+}
